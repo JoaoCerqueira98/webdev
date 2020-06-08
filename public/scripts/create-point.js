@@ -80,5 +80,4 @@ function handleSelectedItem(event){
 
     //atualizar o campo escondido com os items selecionados
     collectedItems.value=selectedItems
-
 }
